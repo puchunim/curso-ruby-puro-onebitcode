@@ -1,0 +1,3 @@
+[X] Instale o Ruby na máquina ou prepare o Codeanywhere
+[X] Exiba no console a seguinte mensagem: "Curso de Ruby do OneBitCode"
+[X] Leia o seguinte artigo: http://bit.ly/missao1-onebitcode-ruby
