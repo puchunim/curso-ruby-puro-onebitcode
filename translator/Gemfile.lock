@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    easy_translate (0.5.1)
+      thread
+      thread_safe
+    thread (0.2.2)
+    thread_safe (0.3.6)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  colorize
+  easy_translate
+
+BUNDLED WITH
+   2.3.7

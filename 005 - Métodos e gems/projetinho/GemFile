@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem "os"
+
+# quando executarmos "bundle" nessa pasta, ele vai olhar no servidor
+# por todas as gems que eu declarei acima, como um "requirements.txt"
